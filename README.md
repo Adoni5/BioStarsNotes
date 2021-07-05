@@ -11,3 +11,6 @@
 
 ## [infoseq](http://emboss.sourceforge.net/apps/cvs/emboss/apps/infoseq.html)
   - Display basic information about sequences 
+
+## [crossmap](http://crossmap.sourceforge.net/)
+  - CrossMap is a program for genome coordinates conversion between different assemblies (such as hg18 (NCBI36) <=> hg19 (GRCh37)). It supports commonly used file formats including BAM, CRAM, SAM, Wiggle, BigWig, BED, GFF, GTF, MAF VCF, and gVCF.
