@@ -8,3 +8,6 @@
 
 ## [seqkit](https://bioinf.shenwei.me/seqkit/)
   - a cross-platform and ultrafast toolkit for FASTA/Q file manipulation
+
+## [infoseq](http://emboss.sourceforge.net/apps/cvs/emboss/apps/infoseq.html)
+  - Display basic information about sequences 
