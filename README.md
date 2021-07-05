@@ -6,5 +6,5 @@
   - Fastq-dump is a utility used to download raw data from the NCBI short read archive (SRA).  
 
 
-## (seqkit)[https://bioinf.shenwei.me/seqkit/]
+## [seqkit](https://bioinf.shenwei.me/seqkit/)
   - a cross-platform and ultrafast toolkit for FASTA/Q file manipulation
